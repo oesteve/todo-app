@@ -4,7 +4,7 @@ This is a simple todo list application built using React, Typescript, and Tailwi
 
 ## Demo
 
-You can view a live demo of the application [here](https://todo-8f0r5vpp9-oesteve.vercel.app/).
+You can view a live demo of the application [todo.oscaresteve.com](https://todo.oscaresteve.com/).
 
 ## Features
 
