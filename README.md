@@ -2,6 +2,10 @@
 
 This is a simple todo list application built using React, Typescript, and Tailwind CSS. The project was bootstrapped with Vite.
 
+## Demo
+
+You can view a live demo of the application [here](https://todo-8f0r5vpp9-oesteve.vercel.app/).
+
 ## Features
 
 - Add new tasks to the todo list
